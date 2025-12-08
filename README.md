@@ -12,18 +12,18 @@
 ### Le petit typographe rationnel
 - Eddie Saudrais - 2000 - 15 pages
 - https://www.gutenberg-asso.fr/IMG/pdf/saudrais-typo.pdf
-## LaTeX
+## LaTeX (LaTeX2e)
 ### Apprenez LaTeX en ligne : cours gratuit pour débutant
 - https://www.learnlatex.org/fr/
+### The Not So Short Introduction to LaTeX
+- Tobias Oetike - régulièrement mis à jour - 298 pages - anglais
+- https://tobi.oetiker.ch/lshort/lshort.pdf
 ### Rédaction avec \title{LATEX}
 - Vincent Goulet - 2024 - 186 pages
 - https://ctan.org/pkg/formation-latex-ul
 ### La FAQ LaTeX visuelle
 - Scott Pakin - 2023 - 33 pages
 - https://ctan.org/pkg/visualfaq-fr
-### The Not So Short Introduction to LaTeX
-- Tobias Oetike - 2023 - 298 pages - anglais
-- https://tobi.oetiker.ch/lshort/lshort.pdf
 ### Une courte (?) introduction à LATEX 2ε
 - Tobias Oetike - 2011 - 184 pages
 - https://ctan.org/tex-archive/info/lshort/french
@@ -39,9 +39,6 @@
 ### WikiLivre : LaTeX
 - 2022 - web
 - https://fr.wikibooks.org/wiki/LaTeX
-### Mathematical Typesetting with LaTeX
-- Herbert Voß - 2017 - 221 pages
-- http://www.gang.umass.edu/~franz/latexmanual.pdf
 ### LaTeX pour l’amateur... Un peu de poésie, diable !
 - Philippe d’Anfray - 2017 - 388 pages
 - https://www.gutenberg-asso.fr/IMG/pdf/que_diable-philippe_d_anfray-00-qd3-5.pdf
@@ -86,7 +83,13 @@
 ### Foire aux questions du groupe fr.comp.text.tex
 - 2004 - 370 pages
 - https://ctan.org/tex-archive/help/LaTeX-FAQ-francaise/legacy_versions
+## LaTeX3
+### An introduction to expl3
+- 2023 - 7 pages
+- http://ftp.tug.org/TUGboat/tb44-1/tb136peischl-expl3.pdf
+### LaTeX3: Programming in LaTeX with Ease
+- https://www.alanshawn.com/latex3-tutorial/
 ## TeX
 ### Apprendre à programmer en TEX
-- Christian Tellechea - 2014 - 580 pages
+- Christian Tellechea - 2020 - 580 pages
 - https://ctan.org/tex-archive/info/apprendre-a-programmer-en-tex
