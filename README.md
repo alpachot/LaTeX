@@ -39,12 +39,12 @@
 ### WikiLivre : LaTeX
 - 2022 - web
 - https://fr.wikibooks.org/wiki/LaTeX
-### LaTeX cheat sheet
-- 2017
-- https://wch.github.io/latexsheet/
 ### LaTeX pour l’amateur... Un peu de poésie, diable !
 - Philippe d’Anfray - 2017 - 388 pages
 - https://www.gutenberg-asso.fr/IMG/pdf/que_diable-philippe_d_anfray-00-qd3-5.pdf
+### LaTeX cheat sheet
+- Winston Chang - 2014 - 2 pages
+- https://wch.github.io/latexsheet/
 ### Tout ce que vous avez toujours voulu savoir sur LaTeX sans jamais oser le demander.
 - Vinvent Lozano - 2013 - 328 pages
 - https://archives.framabook.org/tout-sur-latex/index.html
