@@ -2,7 +2,7 @@
 ## Typographie
 ### Comparison of the performances of Word, InDesign and LaTeX
 - Roel Zinkstok - 2010 - 1 page - anglais
-- http://www.rtznet.nl/zink/comparison.pdf
+- [http://www.rtznet.nl/zink/comparison.pdf](https://web.archive.org/web/20190829041649/http://www.rtznet.nl/zink/comparison.pdf)
 ### Petites leçons de typographie
 - Jacques André - 1990 - 50 pages
 - https://jacques-andre.fr/faqtypo/lessons.pdf
